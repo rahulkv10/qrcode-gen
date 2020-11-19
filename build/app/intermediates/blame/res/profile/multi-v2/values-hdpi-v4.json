@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhishekhary/Documents/QR-CODE-Scanner-Generator-master/build/app/intermediates/incremental/mergeProfileResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/abhishekhary/.gradle/caches/transforms-2/files-2.1/dd2ecfcfb369a2f0046b9c1c6d80939e/appcompat-1.0.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "441"
+                    }
+                },
+                {
+                    "source": "/home/abhishekhary/.gradle/caches/transforms-2/files-2.1/5aea5605fa2335e8eb517b6f837773e5/jetified-core-1.9.13/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

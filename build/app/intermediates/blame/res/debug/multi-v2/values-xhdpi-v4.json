@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhishekhary/Documents/Development/projectfive/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/abhishekhary/.gradle/caches/transforms-2/files-2.1/5aea5605fa2335e8eb517b6f837773e5/jetified-core-1.9.13/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
